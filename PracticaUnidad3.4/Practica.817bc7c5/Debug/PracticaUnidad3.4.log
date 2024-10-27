@@ -1,0 +1,7 @@
+﻿  PracticaUnidad3.4.cpp
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad3\PracticaUnidad3.4\PracticaUnidad3.4.cpp(29,36): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad3\PracticaUnidad3.4\PracticaUnidad3.4.cpp(30,39): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad3\PracticaUnidad3.4\PracticaUnidad3.4.cpp(30,25): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad3\PracticaUnidad3.4\PracticaUnidad3.4.cpp(35,30): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad3\PracticaUnidad3.4\PracticaUnidad3.4.cpp(35,24): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  PracticaUnidad3.4.vcxproj -> C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad3\PracticaUnidad3.4\Debug\PracticaUnidad3.4.exe

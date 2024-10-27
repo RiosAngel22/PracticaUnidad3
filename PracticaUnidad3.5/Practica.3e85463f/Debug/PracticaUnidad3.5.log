@@ -1,0 +1,5 @@
+﻿  PracticaUnidad3.5.cpp
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad3\PracticaUnidad3.5\PracticaUnidad3.5.cpp(30,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad3\PracticaUnidad3.5\PracticaUnidad3.5.cpp(30,34): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad3\PracticaUnidad3.5\PracticaUnidad3.5.cpp(31,39): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  PracticaUnidad3.5.vcxproj -> C:\Users\Operador\Desktop\Angel Ríos\trabajos practicos\facultad\mavi\PracticaUnidad3\PracticaUnidad3.5\Debug\PracticaUnidad3.5.exe
